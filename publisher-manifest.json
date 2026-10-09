@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "73239e85209cc606d5dddf00",
+  "owner": "jcpaept",
+  "repo": "page-04f13ecc463893a7dbf25a9a",
+  "title": "GPT代充",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "04f13ecc463893a7dbf25a9a",
+      "a": "GPT代充",
+      "b": "",
+      "entity": "GPT代充",
+      "brand": "GPT代充",
+      "separator": "",
+      "path": "index.html",
+      "hash": "b957e14311351a0b20def1d245473c77fbff43157a348f1762f4d46abc0d4e05",
+      "content": {
+        "keyword1": "GPT代充",
+        "keyword2": "",
+        "primary_entity": "GPT代充",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "GPT代充提供稳定高速的网络加速服务，支持多设备在线，流媒体解锁，IPLC游戏优化。官方正品保障，快速节点接入。",
+          "AI_DESCRIPTION": "GPT代充提供稳定高速的网络加速服务，支持多设备在线，流媒体解锁，IPLC游戏优化。官方正品保障，快速节点接入。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    <style>\n        :root {\n            --white: #faf5f0;\n            --coral: #ff6b6b;\n            --dark: #333;\n        }\n        body {\n            font-family: system-ui, -apple-system, sans-serif;\n            background: var(--white);\n            margin: 0;\n            padding: 0;\n            color: var(--dark);\n            line-height: 1.6;\n        }\n        main {\n            max-width: 1200px;\n            margin: 0 auto;\n            padding: 20px;\n        }\n        h1 {\n            text-align: center;\n            color: var(--coral);\n            font-size: 2.8em;\n            margin-bottom: 10px;\n        }\n        .hero {\n            background: linear-gradient(135deg, var(--coral), #f0625f);\n            color: white;\n            padding: 50px 20px;\n            border-radius: 12px;\n            text-align: center;\n            margin-bottom: 40px;\n        }\n        .hero h2 {\n            font-size: 2.2em;\n            margin-bottom: 15px;\n        }\n        .intro {\n            display: flex;\n            gap: 40px;\n            margin-bottom: 50px;\n        }\n        .intro div {\n            flex: 1;\n        }\n        .intro h2 {\n            color: var(--coral);\n            margin-bottom: 20px;\n            font-size: 1.8em;\n        }\n        .plans {\n            margin-bottom: 50px;\n        }\n        .plans h2 {\n            text-align: center;\n            color: var(--coral);\n            margin-bottom: 30px;\n            font-size: 2em;\n        }\n        .plans-grid {\n            display: grid;\n            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));\n            gap: 25px;\n        }\n        .plan-card {\n            background: white;\n            border: 1px solid #eee;\n            border-radius: 10px;\n            padding: 25px;\n            transition: transform 0.3s;\n        }\n        .plan-card.featured {\n            border: 3px solid var(--coral);\n            position: relative;\n        }\n        .plan-card.featured::before {\n            content: \"推荐\";\n            position: absolute;\n            top: -12px;\n            right: 25px;\n            background: var(--coral);\n            color: white;\n            padding: 5px 15px;\n            border-radius: 20px;\n            font-size: 0.9em;\n        }\n        .plan-card h3 {\n            font-size: 1.5em;\n            color: var(--dark);\n            margin: 0 0 15px;\n        }\n        .plan-card .price {\n            font-size: 1.4em;\n            color: var(--coral);\n            margin-bottom: 10px;\n        }\n        .plan-card .annual {\n            color: #666;\n            font-size: 1em;\n            margin-bottom: 20px;\n        }\n        .plan-card ul {\n            list-style: none;\n            padding: 0;\n            margin-bottom: 25px;\n        }\n        .plan-card ul li {\n            padding: 8px 0;\n            font-size: 1.05em;\n        }\n        .plan-card a {\n            display: block;\n            text-align: center;\n            background: var(--coral);\n            color: white;\n            padding: 12px;\n            border-radius: 6px;\n            text-decoration: none;\n            font-weight: bold;\n        }\n        .plans-grid a:hover {\n            background: #e55a5a;\n        }\n        .operation {\n            background: #f8f5f0;\n            padding: 30px;\n            border-radius: 10px;\n            margin-bottom: 50px;\n        }\n        .operation h2 {\n            color: var(--coral);\n            margin-bottom: 25px;\n        }\n        .operation ol {\n            padding-left: 20px;\n        }\n        .operation li {\n            margin-bottom: 15px;\n            font-size: 1.1em;\n        }\n        details {\n            margin-bottom: 12px;\n            border: 1px solid #ddd;\n            border-radius: 8px;\n            overflow: hidden;\n        }\n        summary {\n            padding: 18px 20px;\n            font-weight: bold;\n            cursor: pointer;\n            background: #faf5f0;\n            font-size: 1.15em;\n        }\n        summary:hover {\n            background: #f0e9e0;\n        }\n        p.answer {\n            padding: 18px 20px;\n            color: #555;\n            margin: 0;\n        }\n        footer {\n            background: #333;\n            color: #ddd;\n            padding: 30px 20px;\n            text-align: center;\n            border-radius: 8px;\n        }\n        footer a {\n            color: var(--coral);\n            text-decoration: none;\n            margin: 0 12px;\n        }\n        footer a:hover {\n            text-decoration: underline;\n        }\n        @media (max-width: 768px) {\n            .intro {\n                flex-direction: column;\n                gap: 20px;\n            }\n            h1 {\n                font-size: 2.2em;\n            }\n            .hero h2 {\n                font-size: 1.8em;\n            }\n        }\n    </style>\n\n\n    <main>\n        <h1>GPT代充</h1>\n        <p>稳定高速网络加速 | 多设备代理服务</p>\n        \n        <div class=\"hero\">\n            <h2>突破网络限制，畅享全球高速资源</h2>\n            <p>每月高速流量 • 支持多设备 • 流媒体全解锁 • 游戏IPLC优化</p>\n        </div>\n        \n        <div class=\"intro\">\n            <div>\n                <h2>品牌简介</h2>\n                <p>GPT代充是一款专业级的网络加速与代理服务平台，致力于为用户提供安全稳定、速度极快的全球节点服务。通过智能线路调度与优化技术，帮助用户轻松突破地域限制，畅享高质量的网络资源。无论日常浏览、游戏娱乐还是远程办公，GPT代充都能为您带来卓越体验。</p>\n            </div>\n            <div>\n                <h2>使用场景</h2>\n                <ul>\n                    <li>日常上网与办公：稳定连接，访问全球网站与资料</li>\n                    <li>游戏加速：低延迟IPLC专线，优化游戏体验</li>\n                    <li>流媒体解锁：畅享Netflix、YouTube、B站海外内容</li>\n                    <li>团队协作：支持多设备同时在线，企业级安全保障</li>\n                </ul>\n            </div>\n        </div>\n        \n        <section class=\"plans\">\n            <h2>选择适合您的套餐</h2>\n            <div class=\"plans-grid\">\n                \n                <div class=\"plan-card\">\n                    <h3>基础版</h3>\n                    <div class=\"price\">¥15/月</div>\n                    <div class=\"annual\">按年付仅需 ¥150/年</div>\n                    <ul>\n                        <li>每月 100GB 极速流量</li>\n                        <li>支持 3 台设备同时在线</li>\n                        <li>解锁基础流媒体</li>\n                        <li>普通线路节点池</li>\n                    </ul>\n                    <a href=\"#\">立即选购</a>\n                </div>\n                \n                \n                <div class=\"plan-card featured\">\n                    <h3>旗舰版</h3>\n                    <div class=\"price\">¥35/月</div>\n                    <div class=\"annual\">按年付仅需 ¥350/年</div>\n                    <ul>\n                        <li>每月 300GB 极速流量</li>\n                        <li>支持 5 台设备同时在线</li>\n                        <li>全节点原生流媒体解锁</li>\n                        <li>IPLC 专线游戏加速优化</li>\n                        <li>7x24 优先工单支持</li>\n                    </ul>\n                    <a href=\"#\">立即选购</a>\n                </div>\n                \n                \n                <div class=\"plan-card\">\n                    <h3>团队版</h3>\n                    <div class=\"price\">¥85/月</div>\n                    <div class=\"annual\">按年付仅需 ¥850/年</div>\n                    <ul>\n                        <li>每月 1000GB 极速流量</li>\n                        <li>支持 20 台设备同时在线</li>\n                        <li>VIP 专属高带宽节点</li>\n                        <li>支持企业定制路由</li>\n                        <li>专属客户经理服务</li>\n                    </ul>\n                    <a href=\"#\">立即选购</a>\n                </div>\n            </div>\n        </section>\n        \n        <section class=\"operation\">\n            <h2>简单操作指南</h2>\n            <ol>\n                <li>访问官网并选择适合的套餐</li>\n                <li>完成在线支付（支持微信、支付宝）</li>\n                <li>下载官方客户端并完成安装</li>\n                <li>获取专属节点或订阅链接</li>\n                <li>连接节点服务器开始享受加速服务</li>\n            </ol>\n        </section>\n        \n        <section>\n            <h2>常见问题 FAQ</h2>\n            <details>\n                <summary>什么是 GPT代充？</summary>\n                <p class=\"answer\">GPT代充是一款专业的网络加速与代理服务平台，提供稳定高速的全球节点服务，帮助用户突破地域限制，畅享优质网络资源。</p>\n            </details>\n            <details>\n                <summary>如何选择套餐？</summary>\n                <p class=\"answer\">根据使用需求选择：基础版适合个人轻度使用，旗舰版适合重度用户与游戏玩家，团队版适合多人协作与企业使用。</p>\n            </details>\n            <details>\n                <summary>流量超出后如何处理？</summary>\n                <p class=\"answer\">流量支持自动续费，您可随时升级到更高阶套餐，确保持续畅享高速网络服务。</p>\n            </details>\n            <details>\n                <summary>支持哪些设备？</summary>\n                <p class=\"answer\">支持 Windows、macOS、Android、iOS 等主流操作系统，同时提供网页版与路由器适配方案。</p>\n            </details>\n            <details>\n                <summary>节点质量如何？</summary>\n                <p class=\"answer\">所有节点均经过严格测试，确保低延迟、高稳定性和高速传输，满足日常使用与游戏需求。</p>\n            </details>\n            <details>\n                <summary>售后服务如何？</summary>\n                <p class=\"answer\">提供 7x24 在线支持，旗舰版及以上套餐享有专属客户经理服务，快速响应各类问题。</p>\n            </details>\n        </section>\n        \n        <footer>\n            <p>友情链接：<a href=\"#\">X机场</a> | <a href=\"#\">机场订阅</a> | <a href=\"#\">加速器下载</a></p>\n            <p>广告：更多优惠信息请关注官网</p>\n            <p>© 2024 GPT代充 版权所有 | 官方正品保障</p>\n        </footer>\n    <section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n\n",
+          "hash": "406e45b3aa8b07d8ea267f2c4500d7ed1836e4693e03f182db2c22816731eb69",
+          "seo": {
+            "title": "GPT代充 - 网络加速器 | 高速代理客户端下载 | 官网",
+            "keywords": "GPT代充, 加速器, VPN, 梯子, 流量, 节点, 客户端, 下载, 官网, 网络加速",
+            "description": "GPT代充提供稳定高速的网络加速服务，支持多设备在线，流媒体解锁，IPLC游戏优化。官方正品保障，快速节点接入。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "rkcujx.cn",
+    "host": "p-5ef434d7fc.rkcujx.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "fbc29458a7832a3abc4799053882c5dc68184a3c8872e0153d46a6d57f60dc4d",
+    "sitemap.xml": "c8c6e13cb0bfa4a8ab1e9ae510ad0b84c1f0eb9f756b1b6901521accac836245",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "fab8d50f0a879b778f941de64c72cbc2d58b04552386e097a555854dfc69861c",
+    "robots.txt": "f9b64c93d5252751b161b2aa124505a94522ce8ad726fb26fdadcdce0d73e87f",
+    "3628f303cce02a099f980320dcf5420c.txt": "a906b3eb36112e7ef35e489ce437f5389ac2d01bfd6ca36ac3c581fe9ec4c204"
+  },
+  "revision": "bae2ebb8be2d9a9bad73678b8787aca7143071ec3f69f6bfbd7c393281f5a139"
+}
